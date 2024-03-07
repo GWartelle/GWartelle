@@ -37,4 +37,4 @@ My GitHub is not just a repository : it's a playground of passion and progress. 
 
 If you'd like to get in touch with me, feel free to reach out on LinkedIn :
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2C68D1?style=for-the-badge&logo=linkedin&&logoColor=FFF)](https://www.linkedin.com/in/gabriel-wartelle/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&&logoColor=FFF)](https://www.linkedin.com/in/gabriel-wartelle/)
