@@ -25,13 +25,13 @@ My GitHub is not just a repository : it's a playground of passion and progress. 
 [![PostMan](https://img.shields.io/badge/Postman-FF7430?style=for-the-badge&logo=postman&logoColor=FFF)](https://www.postman.com/)
 
 #### Languages
-[![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)](https://developer.mozilla.org/fr/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/Javasript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/Javasript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)](https://fr.wikipedia.org/wiki/C_(langage))
+[![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![R](https://img.shields.io/badge/R-black?style=for-the-badge&logo=R)](https://www.r-project.org/)
-[![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=sqlite)](https://developer.mozilla.org/fr/docs/Glossary/SQL)
+[![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=sqlite)](https://developer.mozilla.org/docs/Glossary/SQL)
 
 ### Contact
 
