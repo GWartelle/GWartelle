@@ -4,7 +4,7 @@
 
 As an aspiring wizard developer and programming enthusiast, I'm on a journey to master the realm of the web! 🌐 After an exciting year of training, I've delved into the intricacies of Data Analysis with Google, explored the fundamentals of computer science with Harvard, and now, I'm mastering web technologies through OpenClassrooms! 💻🎉
 
-My GitHub is not just a repository : it's a playground of passion and progress. 🤖 Join me on this interstellar voyage where, thanks to the power of code, I transform ideas into interactive experiences! 🚀
+Join me on this interstellar voyage where, thanks to the power of code, I transform ideas into interactive experiences! 🚀
 
 ### Technologies
 #### Stack
