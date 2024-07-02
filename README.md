@@ -18,6 +18,7 @@ Join me on this interstellar voyage where, thanks to the power of code, I transf
 [![Flask](https://img.shields.io/badge/Flask-39a9be?style=for-the-badge&logo=flask&logoColor=FFF)](https://flask.palletsprojects.com/en/3.0.x/)
 [![Vite](https://img.shields.io/badge/Vite-AA4DFE?style=for-the-badge&logo=vite&logoColor=FFF)](https://vitejs.dev/)
 [![CreateReactApp](https://img.shields.io/badge/Create_React_App-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=FFF)](https://create-react-app.dev/)
+[![PostMan](https://img.shields.io/badge/Postman-FF7430?style=for-the-badge&logo=postman&logoColor=FFF)](https://www.postman.com/)
 [![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=FFF)](https://tailwindcss.com/)
 [![DaisyUI](https://img.shields.io/badge/Daisy_UI-FF9903?style=for-the-badge&logo=daisyui&logoColor=FFF)](https://daisyui.com/)
 [![StyledComponents](https://img.shields.io/badge/Styled_Components-FA96DE?style=for-the-badge&logo=styledcomponents&logoColor=000)](https://styled-components.com/)
@@ -25,7 +26,6 @@ Join me on this interstellar voyage where, thanks to the power of code, I transf
 [![Jest](https://img.shields.io/badge/Jest-15C213?style=for-the-badge&logo=jest&logoColor=FFF)](https://jestjs.io/)
 [![TestingLibrary](https://img.shields.io/badge/Testing_Library-FC4444?style=for-the-badge&logo=testinglibrary&logoColor=FFF)](https://testing-library.com/)
 [![JsonWebToken](https://img.shields.io/badge/JWT-00B9F1?style=for-the-badge&logo=jsonwebtokens&logoColor=FFF)](https://jwt.io/)
-[![PostMan](https://img.shields.io/badge/Postman-FF7430?style=for-the-badge&logo=postman&logoColor=FFF)](https://www.postman.com/)
 
 #### Languages
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)](https://developer.mozilla.org/docs/Web/HTML)
