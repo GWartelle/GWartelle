@@ -1,6 +1,6 @@
 # Hello everyone! 👋
 
-### I'm Gabriel, a Web Developer from Savoie❄️, France
+### I'm Gabriel, a Web Developer from the Alps❄️,
 
 As an aspiring wizard developer and programming enthusiast, I'm on a journey to master the realm of the web! 🌐 After an exciting year of training, I've delved into the intricacies of Data Analysis with Google, explored the fundamentals of computer science with Harvard, and now, I'm mastering web technologies through OpenClassrooms! 💻🎉
 
