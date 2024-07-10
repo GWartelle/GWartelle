@@ -2,7 +2,9 @@
 
 ### I'm Gabriel, a Web Developer from the Alps❄️,
 
-As an aspiring wizard developer and programming enthusiast, I'm on a journey to master the realm of the web! 🌐 On this journey, I have delved into the intricacies of Data Analysis with Google, explored the fundamentals of computer science with Harvard, and after learning the ins and outs of web development with OpenClassrooms, I am now onto mastering them trough a Bachelor's Degree with MyDigitlaSchool ! 💻🎉
+As an aspiring wizard developer and programming enthusiast, I'm on a journey to master the realm of the web! 🌐
+
+On this journey, I have delved into the intricacies of Data Analysis with Google, explored the fundamentals of computer science with Harvard, and after learning the ins and outs of web development with OpenClassrooms, I am now onto mastering them trough a Bachelor's Degree with MyDigitlaSchool ! 💻🎉
 
 Join me on this interstellar voyage where, thanks to the power of code, I transform ideas into interactive experiences! 🚀
 
