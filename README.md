@@ -28,6 +28,7 @@ Join me on this interstellar voyage where, thanks to the power of code, I transf
 [![Jest](https://img.shields.io/badge/Jest-15C213?style=for-the-badge&logo=jest&logoColor=FFF)](https://jestjs.io/)
 [![TestingLibrary](https://img.shields.io/badge/Testing_Library-FC4444?style=for-the-badge&logo=testinglibrary&logoColor=FFF)](https://testing-library.com/)
 [![JsonWebToken](https://img.shields.io/badge/JWT-00B9F1?style=for-the-badge&logo=jsonwebtokens&logoColor=FFF)](https://jwt.io/)
+[![SocketIO](https://img.shields.io/badge/Socket.IO-25C2A0?style=for-the-badge&logo=socketdotio&logoColor=FFF)](https://socket.io/)
 
 #### Languages
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)](https://developer.mozilla.org/docs/Web/HTML)
