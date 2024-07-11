@@ -41,6 +41,6 @@ Join me on this interstellar voyage where, thanks to the power of code, I transf
 
 ### Contact
 
-If you'd like to get in touch with me, feel free to reach out on LinkedIn :
+If you want to a look at my work, I invite you to go check my [portfolio](https://gwartelle.github.io/MyPortfolio/).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&&logoColor=FFF)](https://www.linkedin.com/in/gabriel-wartelle/)
+And if you'd like to get in touch with me, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/gabriel-wartelle/).
