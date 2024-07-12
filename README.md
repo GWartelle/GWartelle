@@ -9,7 +9,7 @@ On this journey, I have delved into the intricacies of Data Analysis with Google
 Join me on this interstellar voyage where, thanks to the power of code, I transform ideas into interactive experiences! 🚀
 
 ### Technologies
-#### Stack
+#### Tech stack
 [![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=FFF)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-3F873F?style=for-the-badge&logo=nodedotjs&logoColor=FFF)](https://nodejs.org/en)
 [![Express](https://img.shields.io/badge/Express-FCFCFC?style=for-the-badge&logo=express&logoColor=000)](https://expressjs.com/)
