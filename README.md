@@ -21,6 +21,7 @@ Join me on this interstellar voyage where, thanks to the power of code, I transf
 [![Vite](https://img.shields.io/badge/Vite-AA4DFE?style=for-the-badge&logo=vite&logoColor=FFF)](https://vitejs.dev/)
 [![CreateReactApp](https://img.shields.io/badge/Create_React_App-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=FFF)](https://create-react-app.dev/)
 [![ReactRouter](https://img.shields.io/badge/React_Router-F44250?style=for-the-badge&logo=reactrouter&logoColor=FFF)](https://reactrouter.com/en/main)
+[![ReduxToolkit](https://img.shields.io/badge/Redux_Toolkit-BA8FFF?style=for-the-badge&logo=redux&logoColor=FFF)](https://redux-toolkit.js.org/)
 [![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=FFF)](https://jwt.io/)
 [![Formik](https://img.shields.io/badge/Formik-172B4D?style=for-the-badge&logo=formik&logoColor=FFF)](https://jwt.io/)
 [![Jest](https://img.shields.io/badge/Jest-15C213?style=for-the-badge&logo=jest&logoColor=FFF)](https://jestjs.io/)
