@@ -24,6 +24,7 @@ Join me on this interstellar voyage where, thanks to the power of code, I transf
 [![ReduxToolkit](https://img.shields.io/badge/Redux_Toolkit-BA8FFF?style=for-the-badge&logo=redux&logoColor=FFF)](https://redux-toolkit.js.org/)
 [![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=FFF)](https://jwt.io/)
 [![Formik](https://img.shields.io/badge/Formik-172B4D?style=for-the-badge&logo=formik&logoColor=FFF)](https://jwt.io/)
+[![FormSpree](https://img.shields.io/badge/Form_Spree-CE0C25?style=for-the-badge&logo=formspree&logoColor=FFF)](https://formspree.io/)
 [![Jest](https://img.shields.io/badge/Jest-15C213?style=for-the-badge&logo=jest&logoColor=FFF)](https://jestjs.io/)
 [![TestingLibrary](https://img.shields.io/badge/Testing_Library-FC4444?style=for-the-badge&logo=testinglibrary&logoColor=FFF)](https://testing-library.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=FFF)](https://tailwindcss.com/)
