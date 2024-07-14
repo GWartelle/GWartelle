@@ -16,7 +16,6 @@ Join me on this interstellar voyage where, thanks to the power of code, I transf
 [![MongoDB](https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=FFF)](https://www.mongodb.com/)
 
 #### Tools
-[![Git](https://img.shields.io/badge/Git-f54d27?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/)
 [![Flask](https://img.shields.io/badge/Flask-39a9be?style=for-the-badge&logo=flask&logoColor=FFF)](https://flask.palletsprojects.com/en/3.0.x/)
 [![Vite](https://img.shields.io/badge/Vite-AA4DFE?style=for-the-badge&logo=vite&logoColor=FFF)](https://vitejs.dev/)
 [![CreateReactApp](https://img.shields.io/badge/Create_React_App-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=FFF)](https://create-react-app.dev/)
@@ -35,6 +34,7 @@ Join me on this interstellar voyage where, thanks to the power of code, I transf
 [![SocketIO](https://img.shields.io/badge/Socket.IO-25C2A0?style=for-the-badge&logo=socketdotio&logoColor=FFF)](https://socket.io/)
 [![PostMan](https://img.shields.io/badge/Postman-FF7430?style=for-the-badge&logo=postman&logoColor=FFF)](https://www.postman.com/)
 [![Render](https://img.shields.io/badge/Render-8A05FF?style=for-the-badge&logo=render&logoColor=FFF)](https://render.com/)
+[![Git](https://img.shields.io/badge/Git-f54d27?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/)
 
 #### Languages
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)](https://developer.mozilla.org/docs/Web/HTML)
