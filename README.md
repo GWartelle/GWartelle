@@ -30,9 +30,11 @@ Join me on this interstellar voyage where, thanks to the power of code, I transf
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=FFF)](https://tailwindcss.com/)
 [![DaisyUI](https://img.shields.io/badge/Daisy_UI-FF9903?style=for-the-badge&logo=daisyui&logoColor=FFF)](https://daisyui.com/)
 [![StyledComponents](https://img.shields.io/badge/Styled_Components-FA96DE?style=for-the-badge&logo=styledcomponents&logoColor=000)](https://styled-components.com/)
+[![Mongoose](https://img.shields.io/badge/Mongoose-A03333?style=for-the-badge&logo=mongoose&logoColor=FFF)](https://mongoosejs.com/)
 [![JsonWebToken](https://img.shields.io/badge/JWT-00B9F1?style=for-the-badge&logo=jsonwebtokens&logoColor=FFF)](https://jwt.io/)
 [![SocketIO](https://img.shields.io/badge/Socket.IO-25C2A0?style=for-the-badge&logo=socketdotio&logoColor=FFF)](https://socket.io/)
 [![PostMan](https://img.shields.io/badge/Postman-FF7430?style=for-the-badge&logo=postman&logoColor=FFF)](https://www.postman.com/)
+[![Render](https://img.shields.io/badge/Render-8A05FF?style=for-the-badge&logo=render&logoColor=FFF)](https://render.com/)
 
 #### Languages
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)](https://developer.mozilla.org/docs/Web/HTML)
