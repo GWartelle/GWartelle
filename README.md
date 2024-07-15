@@ -38,7 +38,7 @@ Join me on this interstellar voyage where, thanks to the power of code, I transf
 
 #### Languages
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)](https://developer.mozilla.org/docs/Web/CSS)
+[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=2965F1)](https://developer.mozilla.org/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/Javasript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)](https://en.wikipedia.org/wiki/C_(programming_language))
