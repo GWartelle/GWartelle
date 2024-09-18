@@ -10,14 +10,14 @@ Join me on this interstellar voyage where, thanks to the power of code, I transf
 
 ### Technologies
 #### Languages
-[![JavaScript](https://img.shields.io/badge/Javasript-F7DF1E?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=2965F1)](https://developer.mozilla.org/docs/Web/CSS)
-[![Python](https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-6295CB?style=for-the-badge&logo=C)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![R](https://img.shields.io/badge/R-B6B7BC?style=for-the-badge&logo=R)](https://www.r-project.org/)
-[![SQL](https://img.shields.io/badge/SQL-D67231?style=for-the-badge&logo=sqlite)](https://developer.mozilla.org/docs/Glossary/SQL)
+[![JavaScript](https://img.shields.io/badge/Javasript-F7DF1E?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/docs/Web/JavaScript&logoColor=000)
+[![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFF)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFF)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=FFF)](https://developer.mozilla.org/docs/Web/CSS)
+[![Python](https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=000)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-6295CB?style=for-the-badge&logo=C&logoColor=FFF)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![R](https://img.shields.io/badge/R-B6B7BC?style=for-the-badge&logo=R&logoColor=000)](https://www.r-project.org/)
+[![SQL](https://img.shields.io/badge/SQL-D67231?style=for-the-badge&logo=sqlite&logoColor=FFF)](https://developer.mozilla.org/docs/Glossary/SQL)
 
 #### Frontend
 [![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=FFF)](https://react.dev/)
