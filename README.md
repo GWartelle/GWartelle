@@ -58,6 +58,6 @@ Join me on this interstellar voyage where, thanks to the power of code, I transf
 
 ### Contact
 
-If you want to take a look at my work, I invite you to go check my [portfolio](https://gwartelle.github.io/MyPortfolio/).
+If you want to take a look at my work, I invite you to go check out my [portfolio](https://gwartelle.github.io/MyPortfolio/).
 
 And if you'd like to get in touch with me, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/gabriel-wartelle/).
