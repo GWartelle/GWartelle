@@ -22,6 +22,7 @@ Join me on this interstellar voyage where, thanks to the power of code, I transf
 #### Frontend
 [![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=FFF)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=FFF)](https://nextjs.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-42D392?style=for-the-badge&logo=vue&logoColor=FFF)](https://vuejs.org/)
 [![Vitejs](https://img.shields.io/badge/Vitejs-AA4DFE?style=for-the-badge&logo=vite&logoColor=FFF)](https://vitejs.dev/)
 [![CreateReactApp](https://img.shields.io/badge/Create_React_App-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=FFF)](https://create-react-app.dev/)
 [![ReactRouter](https://img.shields.io/badge/React_Router-F44250?style=for-the-badge&logo=reactrouter&logoColor=FFF)](https://reactrouter.com/en/main)
