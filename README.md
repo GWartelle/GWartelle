@@ -17,7 +17,7 @@ Join me on this interstellar voyage where, thanks to the power of code, I transf
 [![Python](https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=000)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-6295CB?style=for-the-badge&logo=C&logoColor=FFF)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![R](https://img.shields.io/badge/R-B6B7BC?style=for-the-badge&logo=R&logoColor=000)](https://www.r-project.org/)
-[![SQL](https://img.shields.io/badge/SQL-D67231?style=for-the-badge&logo=sqlite&logoColor=FFF)](https://developer.mozilla.org/docs/Glossary/SQL)
+[![SQL](https://img.shields.io/badge/SQL-F2922C?style=for-the-badge&logo=mysql&logoColor=FFF)](https://developer.mozilla.org/docs/Glossary/SQL)
 
 #### Frontend
 [![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=FFF)](https://react.dev/)
