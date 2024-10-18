@@ -13,7 +13,7 @@ Join me on this interstellar voyage where, thanks to the power of code, I transf
 [![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFF)](https://www.typescriptlang.org/)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFF)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=FFF)](https://developer.mozilla.org/docs/Web/CSS)
+[![CSS](https://img.shields.io/badge/CSS-26A3DA?style=for-the-badge&logo=css3&logoColor=FFF)](https://developer.mozilla.org/docs/Web/CSS)
 [![Python](https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=000)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-6295CB?style=for-the-badge&logo=C&logoColor=FFF)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![R](https://img.shields.io/badge/R-B6B7BC?style=for-the-badge&logo=R&logoColor=000)](https://www.r-project.org/)
